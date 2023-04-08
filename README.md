@@ -8,12 +8,12 @@
 Coming Soon...
 
 ---
-##Tweak Project
+## Tweak Project
 * Fork and clone Repository
 * [MongoDB Atlas](https://www.mongodb.com/atlas/database)
 * Update _config.js file with created username and Password
 
-##Tools
+## Tools
 Nodejs
 ```
 npm install
@@ -28,7 +28,7 @@ npm test
 *[x] Tests
 *[x] Slack Integration
 
-#Bugs
+# Bugs
 Crashes on successive image Upload
 
 #Work in Progress
