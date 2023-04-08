@@ -22,7 +22,7 @@ npm install
 npm test
 ```
 
-##Tasks
+## Tasks
 *[x] Set up
 *[x] Basic Pipeline
 *[x] Tests
@@ -35,5 +35,5 @@ Crashes on successive image Upload
 1. Jenkins File
 
 ---
-** Happy Coding **
+* Happy Coding *
 ![Nodejs](https://imgs.search.brave.com/lCoqkVSMbXJWFRuqhJQMyRTFhEHyRs1KMlpLAV2aLfw/rs:fit:1024:683:1/g:ce/aHR0cDovL3d3dy5j/b2luc3BlYWtlci5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDIvbm9kZS1w/ZXJmZWN0LWludGVy/bmV0LXRoaW5ncy1k/ZXNwaXRlLWZvb3Rw/cmludC1pc3N1ZXMt/c3BvdGxpZ2h0LTAx/LmpwZw)
